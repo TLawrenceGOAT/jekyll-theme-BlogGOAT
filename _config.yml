@@ -24,9 +24,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+title: BlogGOAT
 email: your-email@domain.com
-author: GitHub User
+author: TLawrenceGOAT
+twitter_username: TLawrenceGOAT
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -66,7 +67,7 @@ yat:
 # content_width: "920px"
 
 # Google analytics
-# google_analytics: [Tracking ID]
+google_analytics: G-6FN9CDXJEF
 
 # If you want to generate website sitemap, you can set true
 # sitemap: false
