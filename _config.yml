@@ -147,12 +147,12 @@ google_analytics: G-6FN9CDXJEF
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-# header_pages:
-#   - index.html
+header_pages:
+  - index.html
 #   - archives.html
 #   - categories.html
 #   - tags.html
-#   - about.md
+  - about.md
 
 # Page default value
 # defaults:
@@ -188,11 +188,11 @@ google_analytics: G-6FN9CDXJEF
 #   shortname: "Your Disqus username"
 
 # Gitment comments
-# gitment:
-#   username: "Your GitHub username"
-#   repo: "The repo to store comments"
-#   client_id: "Your client ID"
-#   client_secret: "Your client secret"
+gitment:
+  username: TLawrenceGOAT
+  repo: BlogGOAT-comments
+  client_id: 6400f2751f0321b5492c
+  client_secret: 527260d077d6915d73db4562ee3a25673c29010a
 #   redirect_uri: "Your redirect url"   # If you use a custom domain name
 
 # Utterances comments
